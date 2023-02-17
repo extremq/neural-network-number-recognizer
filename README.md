@@ -5,7 +5,7 @@ This neural network is made for the MNIST dataset which contains
 ![The dataset.](https://i.imgur.com/wVYEMTk.png)
 
 # Dataset
-You can find the MNIST dataset [http://yann.lecun.com/exdb/mnist/](here).
+You can find the MNIST dataset [here](http://yann.lecun.com/exdb/mnist/).
 
 # Accuracy
 These are two benchmarks ran on my machine.
